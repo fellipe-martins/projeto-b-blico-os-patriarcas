@@ -1,6 +1,6 @@
 body {
     font-family: 'Patriarcas', serif;
-    background-image: url(../imagens/findo-site-2.png);
+    background-image: url(/src/imagens/findo-site-2.png);
     background-repeat: no-repeat;
     /*nao repiti a imagem*/
     background-size: cover;
@@ -119,23 +119,23 @@ body {
 }
 
 .fundo-1 {
-    background: url(/src/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 .fundo-2 {
-    background: url(/src/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 .fundo-3 {
-    background: url(/src/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 .fundo-4 {
-    background: url(/src/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 .fundo-5 {
-    background: url(/src/imagens/fundo-3.jpg);
+    background: url(../imagens/fundo-3.jpg);
 }
 
 
